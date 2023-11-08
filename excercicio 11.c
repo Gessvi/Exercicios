@@ -24,7 +24,7 @@ if (codigo == 123)
 }
 else
 {
-    printf ("-----------SENHA OU USUARIO INCORRETO!!-------- \n");
+    printf ("-----------CODIGO NEGADO! TENTE NOVAMENTE...-------- \n");
 }
 
 }while (codigo != codigoCerto);
